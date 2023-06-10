@@ -482,7 +482,7 @@ img[alt="Vector_2"] {
     label[for="iconBox"]>span {
         width: 100%;
         height: 4px;
-        background-color: var(--black-color);
+        background-color: var(--white-color);
         transition: all ease-in-out;
         z-index: 5 !important;
         border-radius: 10px;

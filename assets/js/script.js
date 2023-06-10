@@ -100,7 +100,7 @@ $('.myslider_2').slick({
     dots: false,
     infinite: true,
     autoplay: true,
-    speed: 300,
+    speed: 3000,
     slidesToShow: 5,
     slidesToScroll: 1,
     responsive: [
@@ -148,7 +148,7 @@ $('.myslider_2').slick({
     ]
 });
 
-//************ Countdown Timer ************
+//************ Countdown ************
 
 // Get the countdown container element
 const countdownContainer = document.getElementById("countdown-container");
@@ -199,4 +199,4 @@ setTimeout(() => {
     box.style.display = "none";
 
     document.body.classList.remove("overflow-hidden");
-}, 3000);
+}, 2000);
