@@ -107,7 +107,6 @@
 .line-2:hover {
     color: var(--primary-color);
 }
-
 .boxBorder {
     border: 1px solid var(--white-color);
     border-radius: 165px;
